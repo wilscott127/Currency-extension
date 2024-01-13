@@ -1,0 +1,18 @@
+{
+    "name": "Currency Converter",
+    "description": "an app to convert currency",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "./popup.html",
+        "default_icon": "./dollar128.png"
+    },
+    "icons": {
+
+    
+        "128": "./dollar128.png"
+
+
+    },
+    "permissions": ["activeTab"]
+}
